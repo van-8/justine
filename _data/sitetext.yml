@@ -11,35 +11,35 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Justine Shanti Alexander, PhD
+    text: Intro Text
+    #button: Tell Me More
+    #buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Research Interests"
+    text: "General intro"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Conservation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Multi-lateralism"
+        desc: "Bit on different cultures, different children."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Public Engagement](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your talks, engagement, communication"
         icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Specific projects you want to highlight? Can also put your GoogleTalk here, specific links to important papers, etc."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "CV"
+    text: "Milestones of my work. For detailed please this link."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -66,12 +66,12 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    #end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Bio"
+    #text: "our story"
+    body: "Three sentences. Last sentence should be about languages and time spent in countries."
     section: about
 
   clients:
@@ -93,9 +93,9 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "COLLABORATORS"
+    text: "List of people you work closely with? Show how much you care about building consensus and lifting others up."
+    subtext: Additional text space if needed.
     section: team
     people:
       - name: "Kay Garland"
@@ -129,32 +129,32 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+ # contact:
+ #   title: "Contact Us"
+ #   text: "Lorem ipsum or call 123456789"
+ #   section: contact
+ #   name: "Name*"
+ #   name-validation: "Please enter your name."
+ #   email: "Email*"
+ #   email-validation: "Please enter your email address."
+ #   phone: "Phone Number"
+ #   phone-validation: "Please enter your phone number."
+ #   message: "Message*"
+ #   message-validation: "Please enter a message."
+ #   subject: "Contact Form Submission"
+ #   submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
+      #- url: https://facebook.com
+      #  icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+      #- url: https://github.com/raviriley/agency-jekyll-theme
+      #  icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:
