@@ -19,18 +19,18 @@ en: &DEFAULT_EN
   about:
     title: "Bio"
     text: I'm of Sri Lankan and Scottish ancestry, born in France and lived in London, Montréal, 北京 Beijing, and Улаанбаатар Ulaanbaatar. My education and academic career has been built around conservation science, with a focus on ecological and socio-economic factors affecting human wildlife co-existence. I was a National Geographic Young Explorer (2013) and a National Geographic Student Expedition Leader (China 2014, India 2015). I'm author and co-author of 47 peer-reviewed papers in international journals.
-    body: "I speak French and English natively, Chinese at Intermediate level (HSK 5), and Mongolian conversationally. "   
+    body: "I speak French and English natively, Chinese at Intermediate level (HSK 5), and Mongolian conversationally. I'm a certified yoga teacher (YA 500, 2009) with a passion for handstands, and use wellness as a medium of science outreach."   
     section: about
   
   services:
     title: "Guiding Principles"
-    text: "General intro"
+    text: "A sentence how what you believe are the 3 key guiding principles of your work and vision for the future."
     section: services
     list:
       - title: "[Engagement](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Snow leopard conservation necessitates bridging **strong science** at the ecosystem level with **conservation practice** that requires a thoughtful strategy to **respect and engage with local culture.**"
         icon: fab fa-people
-      - title: "Conservation"
+      - title: "Buy-in"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-world #find more at https://fontawesome.com/icons
       - title: "Multi-lateralism"
@@ -40,39 +40,44 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Snow leopard conservation necessitates bridging strong science at the ecosystem level with thoughtful conservation practice at the local and cultural level."
+    text: "Snow leopard conservation necessitates bridging strong science at the ecosystem level with thoughtful conservation practice at the local and cultural level. Here are some of the proudest highlights of my 16 years as a scientist and conservationist."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "CV"
-    text: "Milestones of my work. For detailed please this link."
+    text: "Milestones of my work. For detailed please this [link](www.google.com)."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "Executive Director, Snow Leopard Network"
+        year: "2020-present"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "Senior Conservation Scientist, Snow Leopard Trust"
+        year: "2016-present"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "PhD, Beijing Forestry University, China"
+        year: "2011-2015"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "MSc Conservation Science, Imperial College London, UK"
+        year: "2010 - 2011"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
+      - title: "BSc Biology Major, Environment Minor, McGill University, Canada"
+        year: "2006 - 2010"
+        desc: "Your description here, **Markdown** is fully supported."
+        image: assets/img/timeline/4.jpg
+        alt:
     #end: "Be Part <br> of Our <br> Story!"
 
   clients:
@@ -99,8 +104,8 @@ en: &DEFAULT_EN
     subtext: Additional text space if needed.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "XIAO Lingyun"
+        role: "Xi'an Jiaotong-Liverpool University"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -109,8 +114,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Arjun M. GOPALASWAMY"
+        role: "University of Oxford"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -119,8 +124,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Tserennadmid Nadia MIJIDDORJI"
+        role: "Snow Leopard Conservation Foundation"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
