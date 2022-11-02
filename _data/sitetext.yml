@@ -18,10 +18,25 @@ en: &DEFAULT_EN
 
   about:
     title: "Bio"
-    text: I'm of Sri Lankan and Scottish ancestery, born in France and lived in London, Montréal, 北京 Beijing, and Улаанбаатар Ulaanbaatar. My education and academic career has been built around conservation science, with a focus on ecological and socio-economic factors affecting human wildlife co-existence. I was a National Geographic Young Explorer (2013) and a National Geographic Student Expedition Leader (China 2014, India 2015).
+    text: I'm of Sri Lankan and Scottish ancestry, born in France and lived in London, Montréal, 北京 Beijing, and Улаанбаатар Ulaanbaatar. My education and academic career has been built around conservation science, with a focus on ecological and socio-economic factors affecting human wildlife co-existence. I was a National Geographic Young Explorer (2013) and a National Geographic Student Expedition Leader (China 2014, India 2015).
     body: "I speak French and English natively, Chinese at Intermediate level (HSK 5), and Mongolian conversationally." 
     section: about
-
+  
+  services:
+    title: "Guiding Principles"
+    text: "General intro"
+    section: services
+    list:
+      - title: "[Engagement](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Snow leopard conservation necessitates bridging **strong science** at the ecosystem level with **conservation practice** that requires a thoughtful strategy to **respect and engage with local culture.**"
+        icon: fab fa-people
+      - title: "Conservation"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-world #find more at https://fontawesome.com/icons
+      - title: "Multi-lateralism"
+        desc: "Bit on different cultures, different children."
+        icon: fas fa-culture
+        
 
   portfolio:
     title: "Research Interests"
@@ -115,21 +130,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
- services:
-    title: "Guiding Principles"
-    text: "General intro"
-    section: services
-    list:
-      - title: "[Engagement](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Snow leopard conservation necessitates bridging **strong science** at the ecosystem level with **conservation practice** that requires a thoughtful strategy to **respect and engage with local culture.**"
-        icon: fab fa-people
-      - title: "Conservation"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-world #find more at https://fontawesome.com/icons
-      - title: "Multi-lateralism"
-        desc: "Bit on different cultures, different children."
-        icon: fas fa-culture
-        
+ 
  # contact:
  #   title: "Contact Us"
  #   text: "Lorem ipsum or call 123456789"
