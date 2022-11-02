@@ -5,7 +5,7 @@ image: assets/img/portfolio/uriel-soberanes.jpg
 alt: 
 
 caption:
-  title: Livestock depredation by large carnivores in the South Gobi, Mongolia
+  title: National Geographic
   #subtitle: Website Design
   thumbnail: assets/img/portfolio/uriel-soberanes.jpg
 ---
