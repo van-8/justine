@@ -12,24 +12,24 @@
 en: &DEFAULT_EN
   header:
     title: Justine Shanti Alexander, PhD
-    text: Intro Text
-    #button: Tell Me More
-    #buttonlink: "#services"
+    text: My work currently focuses on snow leopard conservation & field research, spending 6-9 months a year in China & Mongolia to strengthen partnerships at the national, local, and cultural level.
+   # button: Email
+   # buttonlink: mailto:Justine.s.alexander@gmail.com
 
   services:
     title: "Research Interests"
     text: "General intro"
     section: services
     list:
+      - title: "[Public Engagement](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Snow leopard conservation necessitates bridging **strong science** at the ecosystem level with **conservation practice** that requires a thoughtful strategy to **respect and engage with local culture.**"
+        icon: fab fa-markdown
       - title: "Conservation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Multi-lateralism"
         desc: "Bit on different cultures, different children."
         icon: fas fa-laptop
-      - title: "[Public Engagement](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your talks, engagement, communication"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "Bio"
-    #text: "our story"
-    body: "Three sentences. Last sentence should be about languages and time spent in countries."
+    text: "My education and academic career has been built around conservation science, with a focus on ecological and socio-economic factors affecting human wildlife co-existence. I was a **National Geographic Young Explorer (2013)** and a **National Geographic Student Expedition Leader (China 2014, India 2015)**"
+    body: "English: Native </br> French: Native </br> Chinese: Intermediate (HSK 5) </br> Mongolian: Conversational "
     section: about
 
   clients:
