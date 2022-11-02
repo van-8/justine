@@ -13,12 +13,12 @@ en: &DEFAULT_EN
   nav:
    # - title: "Interests"
    #   section: services
-   # - title: "About"
-   #   section: about
+    - title: "Bio"
+      section: about
     - title: "CV"
       section: timeline
-    - title: "Portfolio"
-      section: portfolio
+    #- title: "Portfolio"
+    #  section: portfolio
     - title: "ResearchGate"
       url: https://www.researchgate.net/profile/Justine-Alexander
 en-US:
