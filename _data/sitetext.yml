@@ -46,7 +46,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "CV"
-    text: "Milestones of my work. For detailed please this [link](www.google.com)."
+    #text: "Milestones of my work. For detailed please this [link](www.google.com)."
     section: timeline
     # left is the default
     start_align: "right"
@@ -78,6 +78,11 @@ en: &DEFAULT_EN
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
+      - title: "Full CV"
+        #year: "2006 - 2010"
+        desc: "For detailed curriculum vitae please use this [link](www.google.com)"
+        image: assets/img/timeline/4.jpg
+        alt:  
     #end: "Be Part <br> of Our <br> Story!"
 
   clients:
