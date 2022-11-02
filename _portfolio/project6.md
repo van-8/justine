@@ -1,18 +1,18 @@
 ---
-title: When money meets tradition, How new cash incomes could be risky for a vulnerable ecosystem
-#subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
-alt: 
+title:  Patterns of snow leopard site use in an increasingly human-dominated landscape
+#subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+image: assets/img/portfolio/01-full.jpg
+alt: Shirts on a hanger
 
 caption:
-  title: When money meets tradition, How new cash incomes could be risky for a vulnerable ecosystem
-  #subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title:  Patterns of snow leopard site use in an increasingly human-dominated landscape
+  #subtitle: Illustration
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: January 2017
+- Client: Threads
+- Category: Illustration
 
