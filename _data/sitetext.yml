@@ -49,13 +49,14 @@ en: &DEFAULT_EN
     text: "Milestones of my work. For detailed please this [link](www.google.com)."
     section: timeline
     # left is the default
-    #start_align: "left"
+    start_align: "right"
     events:
       - title: "Executive Director, Snow Leopard Network"
         year: "2020-present"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
+        align: left
       - title: "Senior Conservation Scientist, Snow Leopard Trust"
         year: "2016-present"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
@@ -72,7 +73,6 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
       - title: "BSc Biology Major, Environment Minor, McGill University, Canada"
         year: "2006 - 2010"
         desc: "Your description here, **Markdown** is fully supported."
