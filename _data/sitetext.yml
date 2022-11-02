@@ -27,15 +27,15 @@ en: &DEFAULT_EN
     text: "General intro"
     section: services
     list:
-      - title: "[Public Engagement](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "[Engagement](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Snow leopard conservation necessitates bridging **strong science** at the ecosystem level with **conservation practice** that requires a thoughtful strategy to **respect and engage with local culture.**"
-        icon: fab fa-markdown
+        icon: fab fa-people
       - title: "Conservation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-world #find more at https://fontawesome.com/icons
       - title: "Multi-lateralism"
         desc: "Bit on different cultures, different children."
-        icon: fas fa-laptop
+        icon: fas fa-culture
 
   portfolio:
     title: "Portfolio"
