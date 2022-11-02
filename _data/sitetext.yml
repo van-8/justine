@@ -109,9 +109,39 @@ en: &DEFAULT_EN
     subtext: Additional text space if needed.
     section: team
     people:
+      - name: "Ranjini MURALI"
+        role: "Humboldt-Universität zu Berlin"
+        image: assets/img/team/Ranjini-Murali.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Marcus ROWCLIFFE"
+        role: "Zoological Society of London"
+        image: assets/img/team/Marcus-Rowcliffe.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "XIAO Lingyun"
         role: "Xi'an Jiaotong-Liverpool University"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Lingyun-Xiao-3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Bazartseren BOLDGIV"
+        role: "National University of Mongolia"
+        image: assets/img/team/Bazartseren-Boldgiv.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
